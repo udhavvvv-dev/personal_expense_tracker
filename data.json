@@ -1,0 +1,56 @@
+{
+    "expenses": [
+        {
+            "date": "2024-11-01",
+            "category": "Groceries",
+            "amount": 1500
+        },
+        {
+            "date": "2024-11-02",
+            "category": "Transport",
+            "amount": 300
+        },
+        {
+            "date": "2024-11-03",
+            "category": "Entertainment",
+            "amount": 500
+        },
+        {
+            "date": "2024-11-19",
+            "category": "food",
+            "amount": 5.0
+        }
+    ],
+    "budgets": {
+        "November Budget": {
+            "amount": 5000,
+            "expenses": [
+                {
+                    "date": "2024-11-01",
+                    "category": "Groceries",
+                    "amount": 1500
+                },
+                {
+                    "date": "2024-11-02",
+                    "category": "Transport",
+                    "amount": 300
+                }
+            ]
+        },
+        "Holiday Budget": {
+            "amount": 10000,
+            "expenses": [
+                {
+                    "date": "2024-11-10",
+                    "category": "Travel",
+                    "amount": 4000
+                },
+                {
+                    "date": "2024-11-11",
+                    "category": "Shopping",
+                    "amount": 2000
+                }
+            ]
+        }
+    }
+}
